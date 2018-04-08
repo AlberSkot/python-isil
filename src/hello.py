@@ -1,5 +1,0 @@
-print("Hola que tal!")
-print("Hola que tal!")
-print("Hola que tal!")
-print("Hola que tal!")
-print("Hola que tal!")
