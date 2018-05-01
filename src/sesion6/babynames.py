@@ -2,11 +2,9 @@
 # Copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
 # http://www.apache.org/licenses/LICENSE-2.0
-#REPOSITORIO
-#https://github.com/juantg98/python-isil/
+#https://github.com/AlberSkot/python-isil/
 
 import sys
-import re
 
 """
 Baby Names
