@@ -1,17 +1,20 @@
-﻿#!/usr/bin/python
+#!/usr/bin/python
 # Copyright 2010 Google Inc.
 # Licensed under the Apache License, Version 2.0
 # http://www.apache.org/licenses/LICENSE-2.0
-#https://github.com/AlberSkot/python-isil/
+# https://github.com/AlberSkot/python-isil/
 
 import sys
 
 """
 Baby Names
 ==========
+
 Defina la funcion extract_names() de abajo y modique main()
 para que la invoque.
+
 Asi es como los archivos html lucen babyxxxx.html
+
 ...
 <h3 align="center">Popularity in 1990</h3>
 ....
@@ -19,6 +22,7 @@ Asi es como los archivos html lucen babyxxxx.html
 <tr align="right"><td>2</td><td>Christopher</td><td>Ashley</td>
 <tr align="right"><td>3</td><td>Matthew</td><td>Brittany</td>
 ...
+
 Hitos sugeridos para el desarrollo incremental::
  -Extraer el año e imprimirlo.
  -Extraer los nombres y rangos(ranks) e imprimirlos.
@@ -92,7 +96,6 @@ def main():
       else:
       print text
 
-    
     # Por cada archivo pasado como parametro imprimir el resultado.
     # En caso se pase el flag generaresumen, guardar en un archivo
     # con el mismo nombre pero la extension .resumen
